@@ -1,0 +1,8 @@
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\Calculator.Application\bin\Debug\Calculator.Application.exe.config
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\Calculator.Application\bin\Debug\Calculator.Application.exe
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\Calculator.Application\bin\Debug\Calculator.Application.pdb
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\Calculator.Application\bin\Debug\SimpleCalculator.dll
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\Calculator.Application\bin\Debug\SimpleCalculator.pdb
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\Calculator.Application\obj\Debug\Calculator.Application.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\Calculator.Application\obj\Debug\Calculator.Application.exe
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\Calculator.Application\obj\Debug\Calculator.Application.pdb

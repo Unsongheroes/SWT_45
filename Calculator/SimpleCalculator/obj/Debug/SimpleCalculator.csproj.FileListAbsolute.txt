@@ -1,0 +1,5 @@
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\SimpleCalculator\bin\Debug\SimpleCalculator.dll
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+C:\Users\Kristoffer\Desktop\Uni noter\4_semester\SWT\Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
