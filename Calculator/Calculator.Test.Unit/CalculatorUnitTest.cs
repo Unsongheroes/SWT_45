@@ -18,6 +18,7 @@ namespace Calculator.Test.Unit
 
             Assert.That(uut.Add(2, 4), Is.EqualTo(6));
         }
+<<<<<<< HEAD
 
         [TestCase(2, 3,5)]
         [TestCase(2, -3,-1)]
@@ -29,5 +30,7 @@ namespace Calculator.Test.Unit
             Assert.AreEqual(d,uut.Add(a,b));
         }
 
+=======
+>>>>>>> 2b4109c36062c8155147d20687e886d3c385d20d
     }
 }
