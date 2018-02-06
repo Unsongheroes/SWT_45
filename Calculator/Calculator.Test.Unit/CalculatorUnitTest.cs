@@ -31,7 +31,7 @@ namespace Calculator.Test.Unit
         }
 
         [Test]
-        public void Subtract_Sub2from4_resultNeg2()
+        public void Subtract_Sub4from2_resultMinus2()
         {
             var uut = new SimpleCalculator1();
 
