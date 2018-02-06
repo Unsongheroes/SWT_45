@@ -31,11 +31,11 @@ namespace Calculator.Test.Unit
         }
 
         [Test]
-        public void Subtract_Sub2from4_result2()
+        public void Subtract_Sub2from4_resultNeg2()
         {
             var uut = new SimpleCalculator1();
 
-            Assert.That(uut.Subtract(2, 4), Is.EqualTo(2));
+            Assert.That(uut.Subtract(2, 4), Is.EqualTo(-2));
 
         }
     }
