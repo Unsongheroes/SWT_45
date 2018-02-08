@@ -45,5 +45,12 @@ namespace Calculator.Test.Unit
             var uut = new SimpleCalculator1();
             Assert.That(uut.Multiply(2,2), Is.EqualTo((4)));
         }
+
+        [Test]
+        public void Multiply_Neg2Times2_ResultNeg4()
+        {
+            var uut = new SimpleCalculator1();
+            Assert.That(uut.Multiply(-2, 2), Is.EqualTo((-4)));
+        }
     }
 }
