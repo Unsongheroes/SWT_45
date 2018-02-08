@@ -38,5 +38,12 @@ namespace Calculator.Test.Unit
             Assert.That(uut.Subtract(2, 4), Is.EqualTo(-2));
 
         }
+
+        [Test]
+        public void Multiply_2Times2_Result4()
+        {
+            var uut = new SimpleCalculator1();
+            Assert.That(uut.Multiply(2,2), Is.EqualTo((4)));
+        }
     }
 }
